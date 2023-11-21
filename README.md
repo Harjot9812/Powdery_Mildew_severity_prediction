@@ -1,1 +1,5 @@
 # Powdery_Mildew_severity_prediction
+
+Abstract - This study presents a novel approach for predicting the severity of powdery mildew infestations on plant leaves using a custom-designed neural network architecture. The model integrates flattened VGG16 features with dense layers and dropout regularization to learn and assess the severity percentage of powdery mildew. Leveraging RGB color information for disease assessment, the architecture exhibits adaptability to disease detection tasks relying on spectral variations. While acknowledging the limitations of RGB-based assessments, the study discusses the potential for incorporating hyperspectral imaging data, highlighting the challenges and opportunities in enhancing disease severity prediction. The output layer, designed explicitly for regression tasks, accurately quantifies disease severity, establishing a robust tool for precise disease management in agriculture. This research contributes to advancing disease assessment methodologies, offering an effective solution to mitigate the economic impact of powdery mildew on crops. 
+
+ 
